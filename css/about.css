@@ -120,7 +120,7 @@
 
 /*===================== MEDIA QUERIES FOR TABLETS ===========
 ===============*/
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 700px) {
   .about__achievements {
     margin-top: 2rem;
   }
@@ -148,7 +148,7 @@
 /*===================== MEDIA QUERIES FOR SMALL PHONES ===========
 ===============*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   .achievements__cards {
     grid-template-columns: 1fr 1fr;
     gap: 0.7rem;

@@ -421,7 +421,7 @@ footer ul li a:hover {
 
 /*============= MEDIA QUERIES FOR TABLETS===============*/
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 700px) {
   .container {
     width: var(--container-width-md);
   }
@@ -563,7 +563,7 @@ footer ul li a:hover {
 
 
 /*============= MEDIA QUERIES FOR PHONES===============*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   .container {
     width: var(--container-width-sm);
   }
