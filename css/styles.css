@@ -563,6 +563,7 @@ footer ul li a:hover {
 
 
 /*============= MEDIA QUERIES FOR PHONES===============*/
+
 @media screen and (max-width: 600px) {
   .container {
     width: var(--container-width-sm);
@@ -586,6 +587,11 @@ footer ul li a:hover {
 
     .header__left p {
       margin-bottom: 1.3rem;
+    }
+
+    .header__right {
+      margin-inline-start: 3.5rem;
+      margin-block-end: 5rem;
     }
 
      /*=============CATEGORIES==================*/
